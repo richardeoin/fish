@@ -1,0 +1,10 @@
+# Site settings
+title: Richard Fish
+email:
+description:
+  Fish
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.richard.fish" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
