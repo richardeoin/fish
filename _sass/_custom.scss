@@ -1,34 +1,73 @@
 /**
- * Basic styling
- */
+* Basic styling
+*/
 body {
-    font-family: $base-font-family;
+font-family: $base-font-family;
+background: #fcfcfc;
+font-size: 2em;
 }
 a:hover, a:focus {
-  text-decoration: none;
+text-decoration: none;
+}
+
+h1 {
+   font-size: 48px;
+}
+h2 {
+   font-size: 42px;
+   text-decoration: underline;
+}
+h3 {
+   font-size: 42px;
+   text-align: center;
+   text-decoration: underline;
 }
 
 /**
- * Code formatting
- */
+* Code formatting
+*/
 pre,
 code {
-    border: 1px solid lighten(gray, 40%);
-    border-radius: 3px;
-    background-color: #eef;
+border: 1px solid lighten(gray, 40%);
+border-radius: 3px;
+background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+padding: 8px 12px;
+overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
+> code {
+border: 0;
+padding-right: 0;
+padding-left: 0;
+}
+}
+
+a {
+  color: #667;
+}
+a:hover {
+  color: #3e83be;
+}
+
+.icon {
+    > svg {
+        display: inline;
+        width: 16px;
+        height: 19px;
+        vertical-align: text-bottom;
+
+        path {
+            fill: grey;
+        }
     }
+}
+
+div.center>p {
+  text-align: center;
 }

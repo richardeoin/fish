@@ -1,10 +1,12 @@
 # Site settings
-title: Richard Fish
+title: Richard Meadows
 email:
 description:
-  Fish
+  Homepage of Richard Meadows
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.richard.fish" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+excerpt_separator: <!--more-->

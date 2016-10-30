@@ -4,26 +4,18 @@
 @charset "utf-8";
 
 // Google Fonts
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:700,400);
-$open-sans: 'Open Sans';
+@import url(http://fonts.googleapis.com/css?family=Average:700,400);
+$average: 'Average';
 
 // Our variables
-$base-font-family: $open-sans, Helvetica, Arial, sans-serif;
+$base-font-family: $average, 'Garamond', serif;
 $spacing-unit:     30px;
 
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
