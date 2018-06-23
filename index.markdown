@@ -18,7 +18,7 @@ launches and over 200 cumulative days of flight.
 [Slides](https://github.com/richardeoin/a-quick-guide).
 * Longest superpressure flight with a primary battery
 ([UBSEDS14](http://www.bristol-seds.co.uk/hab/flight/2016/03/07/ubseds14.html)).
-* 152-day flight (Amateur record at the time)
+* 157-day flight (Amateur record at the time)
 ([UBSEDS18](http://www.bristol-seds.co.uk/hab/flight/2016/08/17/ubseds18.html)).
 * Live imagery of a superpressure envelope in flight
 ([UBSEDS20](http://www.bristol-seds.co.uk/hab/flight/2016/08/29/ubseds20.html)).
