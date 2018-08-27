@@ -1,12 +1,12 @@
 richardeoin.github.io/fish
 ======================
-Available at http://richardeoin.github.io/fish.
+Available at https://richardeoin.github.io/fish.
 
 ## Running the server for local testing
 
 You need Jekyll installed:
 
-    $ sudo gem install jekyll RedCloth
+    $ sudo gem install jekyll
 
 You'll also need some kind of javascript runtime. This works
 
