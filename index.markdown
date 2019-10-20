@@ -8,7 +8,7 @@ title: Homepage of Richard Meadows
 # Scientific Ballooning
 
 I led superpressure ballooning efforts at
-[Bristol SEDS](http://www.bristol-seds.co.uk) for two years, with 20
+Bristol SEDS for two years, with 20
 launches and over 200 cumulative days of flight.
 
 
@@ -17,11 +17,11 @@ launches and over 200 cumulative days of flight.
 [Recording](https://www.youtube.com/watch?v=PQJAjDEq5AA&t=5h03m16s),
 [Slides](https://github.com/richardeoin/a-quick-guide).
 * Longest superpressure flight with a primary battery
-([UBSEDS14](http://www.bristol-seds.co.uk/hab/flight/2016/03/07/ubseds14.html)).
+(UBSEDS14).
 * 157-day flight (Amateur record at the time)
-([UBSEDS18](http://www.bristol-seds.co.uk/hab/flight/2016/08/17/ubseds18.html)).
+(UBSEDS18).
 * Live imagery of a superpressure envelope in flight
-([UBSEDS20](http://www.bristol-seds.co.uk/hab/flight/2016/08/29/ubseds20.html)).
+(UBSEDS20).
 
 # Electronics
 
@@ -40,7 +40,7 @@ More generally, my competencies are:
 
 Small Superpressure Balloon Calculator - <a href="http://sp.richard.fish/">http://sp.richard.fish/</a>
 
-Pico Balloon Tracker - <a href="http://www.bristol-seds.co.uk/pico-tracker/">http://www.bristol-seds.co.uk/pico-tracker/</a>
+Pico Balloon Tracker - <a href="http://pico-tracker.richard.fish/">http://pico-tracker.richard.fish/</a>
 
 <br/>
 <div class="row">
